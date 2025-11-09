@@ -119,4 +119,4 @@ For issues and questions, please check the documentation in the `docs/` folder.
 ---
 
 **Version**: 1.0.0  
-**Last Updated**: October 2024
+**Last Updated**: 9 Nov 2025
